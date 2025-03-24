@@ -70,7 +70,7 @@ I’ve collaborated on impactful projects across diverse domains. Here are some 
     <tr>
       <td bgcolor="white" ><img src="./logos/react.png" width="80"/></td>
       <td bgcolor="white" ><img src="./logos/django.png" width="80"/></td>
-      <td bgcolor="white" ><img src="./logos/flask.jpeg" width="80"/></td>
+      <td bgcolor="white" ><img src="./logos/flask.png" width="80"/></td>
       <td bgcolor="white" ><img src="./logos/selenium.png" width="80"/></td>
     </tr>
   </table>
@@ -92,7 +92,7 @@ I’ve collaborated on impactful projects across diverse domains. Here are some 
     <tr>
       <td bgcolor="white" ><img src="./logos/pytorch.png" width="80"/></td>
       <td bgcolor="white" ><img src="./logos/tensorflow.png" width="80"/></td>
-      <td bgcolor="white" ><img src="./logos/sklearn.jpeg" width="80"/></td>
+      <td bgcolor="white" ><img src="./logos/sklearn.png" width="80"/></td>
       <td bgcolor="white" ><img src="./logos/numpy.png" width="80"/></td>
     </tr>
     <tr>
@@ -102,7 +102,7 @@ I’ve collaborated on impactful projects across diverse domains. Here are some 
       <td bgcolor="white" ><img src="./logos/googledeepmindcontrol.jpeg" width="80"/></td>
     </tr>
 <tr>
-      <td bgcolor="white" ><img src="./logos/matplotlib.jpeg" width="80"/></td>
+      <td bgcolor="white" ><img src="./logos/matplotlib.png" width="80"/></td>
       <td bgcolor="white" ><img src="./logos/plotly.png" width="80"/></td>
     </tr>
 
@@ -146,7 +146,7 @@ I’ve collaborated on impactful projects across diverse domains. Here are some 
   <table>
     <tr>
       <td bgcolor="white" ><img src="./logos/archlinux.png" width="80"/></td>
-      <td bgcolor="white" ><img src="./logos/ubuntu.jpeg" width="80"/></td>
+      <td bgcolor="white" ><img src="./logos/ubuntu.png" width="80"/></td>
       <td bgcolor="white" ><img src="./logos/windows.png" width="80"/></td>
       <td bgcolor="white" ><img src="./logos/macos.png" width="80"/></td>
     </tr>
@@ -162,7 +162,7 @@ I’ve collaborated on impactful projects across diverse domains. Here are some 
       <td bgcolor="white" ><img src="./logos/postgresql.png" width="80"/></td>
       <td bgcolor="white" ><img src="./logos/sqlite.jpeg" width="80"/></td>
       <td bgcolor="white" ><img src="./logos/mysql.png" width="80"/></td>
-      <td bgcolor="white" ><img src="./logos/mongodb.png" width="80"/></td>
+      <td bgcolor="white" ><img src="./logos/mongo.png" width="80"/></td>
     </tr>
   </table>
 
