@@ -101,11 +101,10 @@ I’ve collaborated on impactful projects across diverse domains. Here are some 
       <td bgcolor="white" ><img src="./logos/openaigym.png" width="80"/></td>
       <td bgcolor="white" ><img src="./logos/googledeepmindcontrol.jpeg" width="80"/></td>
     </tr>
-<tr>
+    <tr>
       <td bgcolor="white" ><img src="./logos/matplotlib.png" width="80"/></td>
       <td bgcolor="white" ><img src="./logos/plotly.png" width="80"/></td>
     </tr>
-
   </table>
 
 - **Tools & Platforms**
