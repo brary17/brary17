@@ -45,22 +45,19 @@ I’ve collaborated on impactful projects across diverse domains. Here are some 
 
 <h2 id="tech-stack">🛠️ Tech Stack</h2>
 
-<td style="border: none;">
-width="80" style="background-color: white; border-radius: 8px;" style="background-color: white; border-radius: 8px;"
-
 - **Programming Languages**
   - Python
   - TypeScript
   - JavaScript
   - Java
   - C++
-  <table style="border-collapse: collapse; border: none;">
+  <table>
     <tr>
-      <td style="border: none;"><img src="./logos/python.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
-      <td style="border: none;"><img src="./logos/typescript.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
-      <td style="border: none;"><img src="./logos/javascript.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
-      <td style="border: none;"><img src="./logos/java.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
-      <td style="border: none;"><img src="./logos/cpp.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td bgcolor="white" ><img src="./logos/python.jpeg" width="80"/></td>
+      <td bgcolor="white" ><img src="./logos/ts.png" width="80"/></td>
+      <td bgcolor="white" ><img src="./logos/js.png" width="80"/></td>
+      <td bgcolor="white" ><img src="./logos/java.png" width="80"/></td>
+      <td bgcolor="white" ><img src="./logos/cpp.png" width="80"/></td>
     </tr>
   </table>
 
@@ -69,12 +66,12 @@ width="80" style="background-color: white; border-radius: 8px;" style="backgroun
   - Django
   - Flask
   - Selenium
-  <table style="border-collapse: collapse; border: none;">
+  <table>
     <tr>
-      <td style="border: none;"><img src="./logos/react.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
-      <td style="border: none;"><img src="./logos/django.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
-      <td style="border: none;"><img src="./logos/flask.jpeg" width="80" style="background-color: white; border-radius: 8px;"/></td>
-      <td style="border: none;"><img src="./logos/selenium.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td bgcolor="white" ><img src="./logos/react.png" width="80"/></td>
+      <td bgcolor="white" ><img src="./logos/django.png" width="80"/></td>
+      <td bgcolor="white" ><img src="./logos/flask.jpeg" width="80"/></td>
+      <td bgcolor="white" ><img src="./logos/selenium.png" width="80"/></td>
     </tr>
   </table>
 
@@ -91,22 +88,22 @@ width="80" style="background-color: white; border-radius: 8px;" style="backgroun
   - Matplotlib
   - Plotly
   - NLTK
-  <table style="border-collapse: collapse; border: none;">
+  <table>
     <tr>
-      <td style="border: none;"><img src="./logos/pytorch.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
-      <td style="border: none;"><img src="./logos/tensorflow.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
-      <td style="border: none;"><img src="./logos/sklearn.jpeg" width="80" style="background-color: white; border-radius: 8px;"/></td>
-      <td style="border: none;"><img src="./logos/numpy.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td bgcolor="white" ><img src="./logos/pytorch.png" width="80"/></td>
+      <td bgcolor="white" ><img src="./logos/tensorflow.png" width="80"/></td>
+      <td bgcolor="white" ><img src="./logos/sklearn.jpeg" width="80"/></td>
+      <td bgcolor="white" ><img src="./logos/numpy.png" width="80"/></td>
     </tr>
     <tr>
-      <td style="border: none;"><img src="./logos/pandas.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
-      <td style="border: none;"><img src="./logos/scipy.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
-      <td style="border: none;"><img src="./logos/openaigym.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
-      <td style="border: none;"><img src="./logos/googledeepmindcontrol.jpeg" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td bgcolor="white" ><img src="./logos/pandas.png" width="80"/></td>
+      <td bgcolor="white" ><img src="./logos/scipy.png" width="80"/></td>
+      <td bgcolor="white" ><img src="./logos/openaigym.png" width="80"/></td>
+      <td bgcolor="white" ><img src="./logos/googledeepmindcontrol.jpeg" width="80"/></td>
     </tr>
 <tr>
-      <td style="border: none;"><img src="./logos/matplotlib.jpeg" width="80" style="background-color: white; border-radius: 8px;"/></td>
-      <td style="border: none;"><img src="./logos/plotly.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td bgcolor="white" ><img src="./logos/matplotlib.jpeg" width="80"/></td>
+      <td bgcolor="white" ><img src="./logos/plotly.png" width="80"/></td>
     </tr>
 
   </table>
@@ -116,16 +113,16 @@ width="80" style="background-color: white; border-radius: 8px;" style="backgroun
   - Docker/Docker-Compose
   - Jupyter Notebooks
   - Overleaf
-  <table style="border-collapse: collapse; border: none;">
+  <table>
     <tr>
-      <td style="border: none;"><img src="./logos/github.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
-      <td style="border: none;"><img src="./logos/gitlab.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
-      <td style="border: none;"><img src="./logos/docker.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
-      <td style="border: none;"><img src="./logos/dockercompose.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td bgcolor="white" ><img src="./logos/github.png" width="80"/></td>
+      <td bgcolor="white" ><img src="./logos/gitlab.png" width="80"/></td>
+      <td bgcolor="white" ><img src="./logos/docker.png" width="80"/></td>
+      <td bgcolor="white" ><img src="./logos/dockercompose.png" width="80"/></td>
     </tr>
     <tr>
-      <td style="border: none;"><img src="./logos/jupyter.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
-      <td style="border: none;"><img src="./logos/overleaf.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td bgcolor="white" ><img src="./logos/jupyter.png" width="80"/></td>
+      <td bgcolor="white" ><img src="./logos/overleaf.png" width="80"/></td>
     </tr>
   </table>
 
@@ -133,11 +130,11 @@ width="80" style="background-color: white; border-radius: 8px;" style="backgroun
   - AWS
   - Nginx
   - Traefik
-  <table style="border-collapse: collapse; border: none;">
+  <table>
     <tr>
-      <td style="border: none;"><img src="./logos/aws.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
-      <td style="border: none;"><img src="./logos/nginx.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
-      <td style="border: none;"><img src="./logos/traefik.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td bgcolor="white" ><img src="./logos/aws.png" width="80"/></td>
+      <td bgcolor="white" ><img src="./logos/nginx.png" width="80"/></td>
+      <td bgcolor="white" ><img src="./logos/traefik.png" width="80"/></td>
     </tr>
   </table>
 
@@ -146,12 +143,12 @@ width="80" style="background-color: white; border-radius: 8px;" style="backgroun
   - Ubuntu (Server & Desktop)
   - Windows
   - MacOS
-  <table style="border-collapse: collapse; border: none;">
+  <table>
     <tr>
-      <td style="border: none;"><img src="./logos/archlinux.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
-      <td style="border: none;"><img src="./logos/ubuntu.jpeg" width="80" style="background-color: white; border-radius: 8px;"/></td>
-      <td style="border: none;"><img src="./logos/windows.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
-      <td style="border: none;"><img src="./logos/macos.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td bgcolor="white" ><img src="./logos/archlinux.png" width="80"/></td>
+      <td bgcolor="white" ><img src="./logos/ubuntu.jpeg" width="80"/></td>
+      <td bgcolor="white" ><img src="./logos/windows.png" width="80"/></td>
+      <td bgcolor="white" ><img src="./logos/macos.png" width="80"/></td>
     </tr>
   </table>
 
@@ -160,21 +157,21 @@ width="80" style="background-color: white; border-radius: 8px;" style="backgroun
   - SQLite
   - MySQL
   - MongoDB
-  <table style="border-collapse: collapse; border: none;">
+  <table>
     <tr>
-      <td style="border: none;"><img src="./logos/postgresql.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
-      <td style="border: none;"><img src="./logos/sqlite.jpeg" width="80" style="background-color: white; border-radius: 8px;"/></td>
-      <td style="border: none;"><img src="./logos/mysql.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
-      <td style="border: none;"><img src="./logos/mongodb.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td bgcolor="white" ><img src="./logos/postgresql.png" width="80"/></td>
+      <td bgcolor="white" ><img src="./logos/sqlite.jpeg" width="80"/></td>
+      <td bgcolor="white" ><img src="./logos/mysql.png" width="80"/></td>
+      <td bgcolor="white" ><img src="./logos/mongodb.png" width="80"/></td>
     </tr>
   </table>
 
 - **Other**
   - GraphQL
   - REST
-  <table style="border-collapse: collapse; border: none;">
+  <table>
     <tr>
-      <td style="border: none;"><img src="./logos/graphql.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td bgcolor="white" ><img src="./logos/graphql.png" width="80"/></td>
     </tr>
   </table>
 
