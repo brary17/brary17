@@ -45,19 +45,22 @@ I’ve collaborated on impactful projects across diverse domains. Here are some 
 
 <h2 id="tech-stack">🛠️ Tech Stack</h2>
 
+<td style="border: none;">
+width="80" style="background-color: white; border-radius: 8px;" style="background-color: white; border-radius: 8px;"
+
 - **Programming Languages**
   - Python
   - TypeScript
   - JavaScript
   - Java
   - C++
-  <table>
+  <table style="border-collapse: collapse; border: none;">
     <tr>
-      <td><img src="./logos/python.png" width="80"/></td>
-      <td><img src="./logos/typescript.png" width="80"/></td>
-      <td><img src="./logos/javascript.png" width="80"/></td>
-      <td><img src="./logos/java.png" width="80"/></td>
-      <td><img src="./logos/cpp.png" width="80"/></td>
+      <td style="border: none;"><img src="./logos/python.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td style="border: none;"><img src="./logos/typescript.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td style="border: none;"><img src="./logos/javascript.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td style="border: none;"><img src="./logos/java.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td style="border: none;"><img src="./logos/cpp.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
     </tr>
   </table>
 
@@ -66,12 +69,12 @@ I’ve collaborated on impactful projects across diverse domains. Here are some 
   - Django
   - Flask
   - Selenium
-  <table>
+  <table style="border-collapse: collapse; border: none;">
     <tr>
-      <td><img src="./logos/react.png" width="80"/></td>
-      <td><img src="./logos/django.png" width="80"/></td>
-      <td><img src="./logos/flask.jpeg" width="80"/></td>
-      <td><img src="./logos/selenium.png" width="80"/></td>
+      <td style="border: none;"><img src="./logos/react.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td style="border: none;"><img src="./logos/django.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td style="border: none;"><img src="./logos/flask.jpeg" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td style="border: none;"><img src="./logos/selenium.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
     </tr>
   </table>
 
@@ -88,22 +91,22 @@ I’ve collaborated on impactful projects across diverse domains. Here are some 
   - Matplotlib
   - Plotly
   - NLTK
-  <table>
+  <table style="border-collapse: collapse; border: none;">
     <tr>
-      <td><img src="./logos/pytorch.png" width="80"/></td>
-      <td><img src="./logos/tensorflow.png" width="80"/></td>
-      <td><img src="./logos/sklearn.jpeg" width="80"/></td>
-      <td><img src="./logos/numpy.png" width="80"/></td>
+      <td style="border: none;"><img src="./logos/pytorch.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td style="border: none;"><img src="./logos/tensorflow.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td style="border: none;"><img src="./logos/sklearn.jpeg" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td style="border: none;"><img src="./logos/numpy.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
     </tr>
     <tr>
-      <td><img src="./logos/pandas.png" width="80"/></td>
-      <td><img src="./logos/scipy.png" width="80"/></td>
-      <td><img src="./logos/openaigym.png" width="80"/></td>
-      <td><img src="./logos/googledeepmindcontrol.jpeg" width="80"/></td>
+      <td style="border: none;"><img src="./logos/pandas.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td style="border: none;"><img src="./logos/scipy.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td style="border: none;"><img src="./logos/openaigym.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td style="border: none;"><img src="./logos/googledeepmindcontrol.jpeg" width="80" style="background-color: white; border-radius: 8px;"/></td>
     </tr>
 <tr>
-      <td><img src="./logos/matplotlib.jpeg" width="80"/></td>
-      <td><img src="./logos/plotly.png" width="80"/></td>
+      <td style="border: none;"><img src="./logos/matplotlib.jpeg" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td style="border: none;"><img src="./logos/plotly.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
     </tr>
 
   </table>
@@ -113,16 +116,16 @@ I’ve collaborated on impactful projects across diverse domains. Here are some 
   - Docker/Docker-Compose
   - Jupyter Notebooks
   - Overleaf
-  <table>
+  <table style="border-collapse: collapse; border: none;">
     <tr>
-      <td><img src="./logos/github.png" width="80"/></td>
-      <td><img src="./logos/gitlab.png" width="80"/></td>
-      <td><img src="./logos/docker.png" width="80"/></td>
-      <td><img src="./logos/dockercompose.png" width="80"/></td>
+      <td style="border: none;"><img src="./logos/github.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td style="border: none;"><img src="./logos/gitlab.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td style="border: none;"><img src="./logos/docker.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td style="border: none;"><img src="./logos/dockercompose.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
     </tr>
     <tr>
-      <td><img src="./logos/jupyter.png" width="80"/></td>
-      <td><img src="./logos/overleaf.png" width="80"/></td>
+      <td style="border: none;"><img src="./logos/jupyter.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td style="border: none;"><img src="./logos/overleaf.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
     </tr>
   </table>
 
@@ -130,11 +133,11 @@ I’ve collaborated on impactful projects across diverse domains. Here are some 
   - AWS
   - Nginx
   - Traefik
-  <table>
+  <table style="border-collapse: collapse; border: none;">
     <tr>
-      <td><img src="./logos/aws.png" width="80"/></td>
-      <td><img src="./logos/nginx.png" width="80"/></td>
-      <td><img src="./logos/traefik.png" width="80"/></td>
+      <td style="border: none;"><img src="./logos/aws.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td style="border: none;"><img src="./logos/nginx.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td style="border: none;"><img src="./logos/traefik.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
     </tr>
   </table>
 
@@ -143,12 +146,12 @@ I’ve collaborated on impactful projects across diverse domains. Here are some 
   - Ubuntu (Server & Desktop)
   - Windows
   - MacOS
-  <table>
+  <table style="border-collapse: collapse; border: none;">
     <tr>
-      <td><img src="./logos/archlinux.png" width="80"/></td>
-      <td><img src="./logos/ubuntu.jpeg" width="80"/></td>
-      <td><img src="./logos/windows.png" width="80"/></td>
-      <td><img src="./logos/macos.png" width="80"/></td>
+      <td style="border: none;"><img src="./logos/archlinux.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td style="border: none;"><img src="./logos/ubuntu.jpeg" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td style="border: none;"><img src="./logos/windows.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td style="border: none;"><img src="./logos/macos.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
     </tr>
   </table>
 
@@ -157,21 +160,21 @@ I’ve collaborated on impactful projects across diverse domains. Here are some 
   - SQLite
   - MySQL
   - MongoDB
-  <table>
+  <table style="border-collapse: collapse; border: none;">
     <tr>
-      <td><img src="./logos/postgresql.png" width="80"/></td>
-      <td><img src="./logos/sqlite.jpeg" width="80"/></td>
-      <td><img src="./logos/mysql.png" width="80"/></td>
-      <td><img src="./logos/mongodb.png" width="80"/></td>
+      <td style="border: none;"><img src="./logos/postgresql.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td style="border: none;"><img src="./logos/sqlite.jpeg" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td style="border: none;"><img src="./logos/mysql.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
+      <td style="border: none;"><img src="./logos/mongodb.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
     </tr>
   </table>
 
 - **Other**
   - GraphQL
   - REST
-  <table>
+  <table style="border-collapse: collapse; border: none;">
     <tr>
-      <td><img src="./logos/graphql.png" width="80"/></td>
+      <td style="border: none;"><img src="./logos/graphql.png" width="80" style="background-color: white; border-radius: 8px;"/></td>
     </tr>
   </table>
 
