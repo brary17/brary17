@@ -14,9 +14,11 @@ Welcome to my GitHub profile! I'm a Computer Science researcher, developer, and 
 ---
 
 <h2 id="about-me">🔍 About Me</h2>
-Hi! I’m Braxton Geary, a Computer Science researcher passionate about advancing **Artificial Intelligence** and **Reinforcement Learning**. My work focuses on creating intelligent systems that make decisions under uncertainty, with applications in robotics, multi-agent systems, and energy-efficient transportation.
+Hi! I’m Braxton Geary, a Computer Science researcher passionate about advancing **Artificial Intelligence** and **Reinforcement Learning**. My work focuses on creating intelligent systems that make decisions under uncertainty, with applications in robotics, multi-agent systems, and energy-efficient transportation.  
 
 I’m currently completing my **MS in Computer Science** at Utah State University and applying to PhD programs, where I hope to deepen my research in decision-making algorithms and multi-agent collaboration. I’m always eager to collaborate on innovative projects that push the boundaries of AI and its real-world impact.
+
+I love learning and trying new things!  Several months ago I switched to Linux (Ubuntu) because a certain OS deleted all my college notes and I wanted to learn more about computers.  At the beginning of this year (2025), I switched from Ubuntu to Arch Linux to dive further into the nitty-gritty of what goes on in a computer. I've loved it and don't plan on going back anytime soon!  As an added perk, I can now use the holy mantra of all Arch users ("BTW, I use Arch")
 
 ---
 
@@ -76,6 +78,11 @@ I’ve collaborated on impactful projects across diverse domains. Here are some 
   - AWS
   - Nginx
   - Traefik
+- **Operating Systems**
+  - Arch Linux (Current Daily Driver OS)
+  - Ubuntu (Server & Desktop)
+  - Windows
+  - MacOS
 - **Databases**
   - PostgreSQL
   - SQLite
