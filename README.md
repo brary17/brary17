@@ -51,11 +51,32 @@ I’ve collaborated on impactful projects across diverse domains. Here are some 
   - JavaScript
   - Java
   - C++
+  <table>
+    <tr>
+      <td><img src="./logos/python.png" width="80"/></td>
+      <td><img src="./logos/typescript.png" width="80"/></td>
+      <td><img src="./logos/javascript.png" width="80"/></td>
+      <td><img src="./logos/java.png" width="80"/></td>
+    </tr>
+    <tr>
+      <td><img src="./logos/cpp.png" width="80"/></td>
+    </tr>
+  </table>
+
 - **Frameworks**
   - React
   - Django
   - Flask
   - Selenium
+  <table>
+    <tr>
+      <td><img src="./logos/react.png" width="80"/></td>
+      <td><img src="./logos/django.png" width="80"/></td>
+      <td><img src="./logos/flask.jpeg" width="80"/></td>
+      <td><img src="./logos/selenium.png" width="80"/></td>
+    </tr>
+  </table>
+
 - **Libraries**
   - PyTorch
   - Tensorflow
@@ -69,28 +90,92 @@ I’ve collaborated on impactful projects across diverse domains. Here are some 
   - Matplotlib
   - Plotly
   - NLTK
+  <table>
+    <tr>
+      <td><img src="./logos/pytorch.png" width="80"/></td>
+      <td><img src="./logos/tensorflow.png" width="80"/></td>
+      <td><img src="./logos/sklearn.jpeg" width="80"/></td>
+      <td><img src="./logos/numpy.png" width="80"/></td>
+    </tr>
+    <tr>
+      <td><img src="./logos/pandas.png" width="80"/></td>
+      <td><img src="./logos/scipy.png" width="80"/></td>
+      <td><img src="./logos/openaigym.png" width="80"/></td>
+      <td><img src="./logos/googledeepmindcontrol.jpeg" width="80"/></td>
+    </tr>
+<tr>
+      <td><img src="./logos/matplotlib.jpeg" width="80"/></td>
+      <td><img src="./logos/plotly.png" width="80"/></td>
+    </tr>
+
+  </table>
+
 - **Tools & Platforms**
   - GitHub/GitLab
   - Docker/Docker-Compose
   - Jupyter Notebooks
   - Overleaf
+  <table>
+    <tr>
+      <td><img src="./logos/github.png" width="80"/></td>
+      <td><img src="./logos/gitlab.png" width="80"/></td>
+      <td><img src="./logos/docker.png" width="80"/></td>
+      <td><img src="./logos/dockercompose.png" width="80"/></td>
+    </tr>
+    <tr>
+      <td><img src="./logos/jupyter.png" width="80"/></td>
+      <td><img src="./logos/overleaf.png" width="80"/></td>
+    </tr>
+  </table>
+
 - **Cloud & Infrastructure**
   - AWS
   - Nginx
   - Traefik
+  <table>
+    <tr>
+      <td><img src="./logos/aws.png" width="80"/></td>
+      <td><img src="./logos/nginx.png" width="80"/></td>
+      <td><img src="./logos/traefik.png" width="80"/></td>
+    </tr>
+  </table>
+
 - **Operating Systems**
   - Arch Linux (Current Daily Driver OS)
   - Ubuntu (Server & Desktop)
   - Windows
   - MacOS
+  <table>
+    <tr>
+      <td><img src="./logos/archlinux.png" width="80"/></td>
+      <td><img src="./logos/ubuntu.jpeg" width="80"/></td>
+      <td><img src="./logos/windows.png" width="80"/></td>
+      <td><img src="./logos/macos.png" width="80"/></td>
+    </tr>
+  </table>
+
 - **Databases**
   - PostgreSQL
   - SQLite
   - MySQL
   - MongoDB
+  <table>
+    <tr>
+      <td><img src="./logos/postgresql.png" width="80"/></td>
+      <td><img src="./logos/sqlite.jpeg" width="80"/></td>
+      <td><img src="./logos/mysql.png" width="80"/></td>
+      <td><img src="./logos/mongodb.png" width="80"/></td>
+    </tr>
+  </table>
+
 - **Other**
   - GraphQL
   - REST
+  <table>
+    <tr>
+      <td><img src="./logos/graphql.png" width="80"/></td>
+    </tr>
+  </table>
 
 ---
 
