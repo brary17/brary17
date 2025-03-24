@@ -57,8 +57,6 @@ I’ve collaborated on impactful projects across diverse domains. Here are some 
       <td><img src="./logos/typescript.png" width="80"/></td>
       <td><img src="./logos/javascript.png" width="80"/></td>
       <td><img src="./logos/java.png" width="80"/></td>
-    </tr>
-    <tr>
       <td><img src="./logos/cpp.png" width="80"/></td>
     </tr>
   </table>
